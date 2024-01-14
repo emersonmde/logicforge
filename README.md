@@ -1,9 +1,3 @@
-# logicforge
-
-Given your project structure and the fact that it is a Gradle library project, the README should be updated accordingly to provide clear instructions on building and using the library with Gradle. Here's the revised README for your project, LogicForge:
-
----
-
 # LogicForge
 
 ## Overview
